@@ -1,0 +1,6 @@
+# Prevent accidentally committing CNAME (학습 #34, 2026-04-15)
+CNAME
+
+# OS files
+.DS_Store
+Thumbs.db
